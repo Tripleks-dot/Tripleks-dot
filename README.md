@@ -41,15 +41,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tripleks-dot&show_icons=true&theme=ambient_gradient&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FFE66D"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tripleks-dot&layout=compact&theme=ambient_gradient&hide_border=true&bg_color=0D1117&title_color=FF6B6B"/>
-</div>
-
----
-
 ## 🌍 Places I've Explored in Kenya
 
 <div align="center">
