@@ -35,8 +35,8 @@
 
 | Project | Description | Link |
 |---------|-------------|------|
-| **Personal Portfolio** | Colorful creative portfolio website | [View →](https://tripleks-dot.github.io/Profile-Card/) |
-| **Profile Card** | Interactive profile card | [View →](https://tripleks-dot.github.io/Profile-Card/) |
+| **Personal Portfolio** | Colorful creative portfolio website | [View →](https://tripleks-dot.github.io/Keziah-s-Portfolio/) |
+| **Profile Card** | Interactive profile card | [View →](https://tripleks-dot.github.io/PROFILE.CARD/) |
 | **Sample Website** | Responsive site on Netlify | [View →](https://thriving-entremet-d13bff.netlify.app/) |
 
 ---
